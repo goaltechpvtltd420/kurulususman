@@ -1,0 +1,24 @@
+{
+	"episodes": [{
+			"id": "1",
+			"title": "Kurulus Usman Ghazi",
+			"season": "02",
+			"url": "https://www.facebook.com/mohsinintizar/videos/3243006459129978",
+			"episode": "01"
+		},
+		{
+			"id": "2",
+			"title": "Kurulus Usman Ghazi",
+			"season": "02",
+			"url": "https://www.facebook.com/Iamsamihashmii/videos/3238355066232764/",
+			"episode": "02"
+		},
+		{
+			"id": "3",
+			"title": "Kurulus Usman Ghazi",
+			"season": "02",
+			"url": "https://www.facebook.com/100007009239794/videos/2775922169318064",
+			"episode": "03"
+		}
+	]
+}
